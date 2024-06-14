@@ -1,3 +1,3 @@
 # Bad Robot
 
-Blocks all AI-related bots.
+Blocks all SEO and AI junk bots.
